@@ -11,6 +11,7 @@ specifiers:
   eslint-plugin-prettier: ^4.0.0
   eslint-plugin-vue: ^8.5.0
   prettier: ^2.6.2
+  reset-css: ^5.0.1
   sass: ^1.49.11
   typescript: ^4.5.4
   vite: ^2.8.0
@@ -20,6 +21,7 @@ specifiers:
   vuex: 4.0.2
 
 dependencies:
+  reset-css: 5.0.1
   vue: 3.2.31
   vue-router: 4.0.14_vue@3.2.31
   vuex: 4.0.2_vue@3.2.31
@@ -2048,6 +2050,10 @@ packages:
   /request-light/0.5.7:
     resolution: {integrity: sha512-i/wKzvcx7Er8tZnvqSxWuNO5ZGggu2UgZAqj/RyZ0si7lBTXL7kZiI/dWxzxnQjaY7s5HEy1qK21Do4Ncr6cVw==}
     dev: true
+
+  /reset-css/5.0.1:
+    resolution: {integrity: sha512-VyuJdNFfp5x/W6e5wauJM59C02Vs0P22sxzZGhQMPaqu/NGTeFxlBFOOw3eq9vQd19gIDdZp7zi89ylyKOJ33Q==}
+    dev: false
 
   /resolve-from/4.0.0:
     resolution: {integrity: sha512-pb/MYmXstAkysRFx8piNI1tGFNQIFA3vkE3Gq4EuA1dF6gHp/+vgZqsCGJapvy8N3Q+4o7FwvquPJcnZ7RYy4g==}

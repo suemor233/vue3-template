@@ -1,11 +1,12 @@
 import {defineComponent} from 'vue'
-import Test from "@/components/Login";
+import 'reset-css';
 
 export default defineComponent({
     name: 'App',
     setup(props, ctx) {
         return () => (
             <>
+
                 <router-view/>
             </>
         );
