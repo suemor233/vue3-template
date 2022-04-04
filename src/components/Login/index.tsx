@@ -1,7 +1,7 @@
 import {defineComponent} from 'vue'
 import classes from "./index.module.scss"
 export default defineComponent({
-    name: 'Test',
+    name: 'Login',
     setup(props, ctx) {
         return () => (
             <>

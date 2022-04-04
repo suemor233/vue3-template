@@ -1,4 +1,3 @@
-// 具体配置可以参考 https://prettier.io/docs/en/options.html
 module.exports = {
     printWidth: 100,
     tabWidth: 2,

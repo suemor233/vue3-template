@@ -1,5 +1,5 @@
 import {defineComponent} from 'vue'
-import Test from "@/components/Test";
+import Test from "@/components/Login";
 
 export default defineComponent({
     name: 'App',
