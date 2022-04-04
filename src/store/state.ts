@@ -1,5 +1,5 @@
 import {ITest} from "@/typings";
 
-export default <ITest>{
+export default {
   Test: 'test'
 }

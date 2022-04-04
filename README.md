@@ -10,6 +10,7 @@ This template provide toolchain below:
 - Sass
 - VueX
 - Router
+- Axios
 
 # Usage
 
